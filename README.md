@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/GGeeto/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/GGeeto/osticket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/GGeeto/osTicket-LifeCycle-Examples)
 - <b>Microsoft Azure Cloud Services</b>
   - [Microsoft Azure: Virtual Machine](https://github.com/GGeeto/Microsoft-Azure-Creating-a-Virtual-Machine/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
