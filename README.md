@@ -9,9 +9,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/GGeeto/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/GGeeto/osticket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/GGeeto/osTicket-LifeCycle-Examples)
+  - [osTicket: Conclusion] 
 - <b>Microsoft Azure Cloud Services</b>
   - [Microsoft Azure: Virtual Machine](https://github.com/GGeeto/Microsoft-Azure-Creating-a-Virtual-Machine/blob/main/README.md)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Microsoft Azure: Active Directory set up within VM](https://github.com/GGeeto/Microsoft-Azure-Active-Directory/blob/main/README.md)
 
 <h2>☎️ Contact me on:</h2>
 
