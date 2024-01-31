@@ -3,6 +3,9 @@
   My name is Gavin Leal, 
   an <a href="https://www.linkedin.com/in/gavin-leal-5b99672a6/">IT Professional</a>🧑‍💻</h1>
 
+<h3>My primary focus for projects lies within Information Technology, reflecting my current field of expertise. However, I intend to incorporate additional hobbies such as art, gaming, and even cooking into my portfolio at a later stage. I am grateful for your interest and willingness to review my endeavors 😁 </h3>
+
+
 <h2>🖥️🔧 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
