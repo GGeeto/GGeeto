@@ -9,7 +9,6 @@
 - <b>Microsoft Azure Cloud Services</b>
   - [Microsoft Azure: Virtual Machine](https://github.com/GGeeto/Microsoft-Azure-Creating-a-Virtual-Machine/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>☎️ Contact me on:</h2>
 
