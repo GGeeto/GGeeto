@@ -1,4 +1,7 @@
-<h1>Hi, My name is Gavin Leal, an <a href="https://www.linkedin.com/in/gavin-leal-5b99672a6/">IT Professional</a>🧑‍💻</h1>
+<h1>Welcome to my page! 
+  
+  My name is Gavin Leal, 
+  an <a href="https://www.linkedin.com/in/gavin-leal-5b99672a6/">IT Professional</a>🧑‍💻</h1>
 
 <h2>🖥️🔧 Information Technology Projects:</h2>
 
